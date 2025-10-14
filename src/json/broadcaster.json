@@ -2402,10 +2402,13 @@
             "tc": "crazzyccat"
         },
         {
-            "m": "t",
-            "dn": "LPL",
-            "nn": [],
-            "tc": "lpl"
+            "m": "a",
+            "dn": "LPL공식",
+            "nn": [
+                "LPL"
+            ],
+            "tc": "lpl",
+            "ac": "aflpl"
         },
         {
             "m": false,
@@ -7015,12 +7018,6 @@
             "dn": "BJ박성진",
             "nn": ["박성진"],
             "ac": "tjdwnls123"
-        },
-        {
-            "m": "a",
-            "dn": "LPL공식",
-            "nn": [],
-            "ac": "aflpl"
         },
         {
             "m": "c",
